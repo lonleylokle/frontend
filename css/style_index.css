@@ -1,0 +1,13 @@
+main {
+    max-width: 900px;
+    margin: auto;
+    position: relative;
+}
+
+.home-block {
+    width: 300px;
+    margin: auto;
+    margin-top: 20em;
+    text-align: center;
+    border: 1px solid black;
+}
